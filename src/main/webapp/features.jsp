@@ -11,23 +11,21 @@
       </p>
     </div>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+    <div class="row">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Team peer evaluations</h2>
         <img class="img-responsive features-page-img" src="images/feature-teampeerevaluations.png" alt="Team peer evaluations">
-          <div class="col-xs-9 col-sm-9">
-            <div class="features-page-text">
-              Have a team project in your course? Set up a 'team peer evaluation session' for students to give anonymous peer feedback to team members.
-              <br><br>
-              Students can provide confidential peer evaluations to you too.
-            </div>
+        <div class="col-xs-9 col-sm-9">
+          <div class="features-page-text">
+            Have a team project in your course? Set up a 'team peer evaluation session' for students to give anonymous peer feedback to team members.
+            <br><br>
+            Students can provide confidential peer evaluations to you too.
           </div>
+        </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Flexible feedback paths</h2>
         <img class="img-responsive features-page-img" src="images/feature-flexiblefeedbackpaths.png" alt="Flexible feedback paths">
         <div class="col-xs-9 col-sm-9">
@@ -39,11 +37,11 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
+    </div>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+    <div class="row">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Powerful visibility control</h2>
         <img class="img-responsive features-page-img" src="images/feature-powerfullvisibilitycontrol.png" alt="Powerful visibility control">
         <div class="col-xs-9 col-sm-9">
@@ -55,11 +53,9 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Reports and statistics</h2>
         <img class="img-responsive features-page-img" src="images/feature-reportsandstatistics.png" alt="Reports and statistics">
         <div class="col-xs-9 col-sm-9">
@@ -70,11 +66,11 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
+    </div>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+    <div class="row">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Fine-grain access control</h2>
         <img class="img-responsive features-page-img" src="images/feature-finegrainaccesscontrol.png" alt="Fine-grain access control">
         <div class="col-xs-9 col-sm-9">
@@ -85,11 +81,9 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Different question types</h2>
         <img class="img-responsive features-page-img" src="images/feature-differentquestiontypes.png" alt="Different question types">
         <div class="col-xs-9 col-sm-9">
@@ -100,11 +94,11 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
+    </div>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+    <div class="row">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Reuse past questions</h2>
         <img class="img-responsive features-page-img" src="images/feature-reusepastquestions.png" alt="Reuse past questions">
         <div class="col-xs-9 col-sm-9">
@@ -115,11 +109,9 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+      <section class="column">
         <h2 class="color_orange col-xs-12">No signup required for students</h2>
         <img class="img-responsive features-page-img" src="images/feature-nosignuprequired.png" alt="No signup required for students">
         <div class="col-xs-9 col-sm-9">
@@ -130,11 +122,11 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
+    </div>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+    <div class="row">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Downloadable data</h2>
         <img class="img-responsive features-page-img" src="images/feature-downloadbledata.png" alt="Downloadable data">
         <div class="col-xs-9 col-sm-9">
@@ -145,11 +137,9 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Shareable comments</h2>
         <img class="img-responsive features-page-img" src="images/feature-sharablecomments.png" alt="Sharable">
         <div class="col-xs-9 col-sm-9">
@@ -161,11 +151,11 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
+    </div>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+    <div class="row">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Student profiles</h2>
         <img class="img-responsive features-page-img" src="images/feature-studentprofiles.png" alt="Student profiles">
         <div class="col-xs-9 col-sm-9">
@@ -181,11 +171,9 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Powerful search</h2>
         <img class="img-responsive features-page-img" src="images/feature-powerfulsearch.png" alt="Powerful search">
         <div class="col-xs-9 col-sm-9">
@@ -196,11 +184,11 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
+    </div>
 
-    <section class="row">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+    <div class="row">
+      <section class="column">
         <h2 class="color_orange col-xs-12">Support for big courses</h2>
         <img class="img-responsive features-page-img" src="images/feature-supportforbigcourses.png" alt="Support for big courses">
         <div class="col-xs-9 col-sm-9">
@@ -210,8 +198,8 @@
           </div>
         </div>
         <img class="img-responsive features-page-img" src="images/raised-edge.png">
-      </div>
-    </section>
+      </section>
+    </div>
 
     <div class="features-page-text-bottom">
       <p class="col-xs-12 col-sm-8 col-sm-offset-2">

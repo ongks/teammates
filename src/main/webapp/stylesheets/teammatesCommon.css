@@ -122,6 +122,11 @@ Apply to alert to override Bootstrap's default 3d alerts
     color: inherit;
 }
 
+.column {
+    float: left;
+    width: 50%;
+}
+
 .cursor-pointer {
     cursor: pointer;
 }
@@ -162,6 +167,12 @@ which usually match 2 classes (eg .btn.disabled)
 
 .mouse-hover-only:active {
     pointer-events: none !important;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 .row-answered {
